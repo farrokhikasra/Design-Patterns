@@ -6,7 +6,6 @@ public class Human {
     private String firstName;
     private String lastName;
     private Date birthDate;
-
     public Human(Date birthDate, String firstName, String lastName) {
         this.firstName = firstName;
         this.lastName = lastName;
